@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Main</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Yosemite Falls</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.596907,37.756596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tunnel view</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.677483,37.715799,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yosemite Valley Vista Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.727455,37.713797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yosemite Valley View</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.662121,37.7173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Dome</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.559886,37.756869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yosemite Valley Welcome Center</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.587164,37.748746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yosemite Valley Loop Trail</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.608162,37.737137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horsetail Fall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.628476,37.729124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lower Yosemite Fall Vista Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.595809,37.749839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nevada Fall</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5333015,37.7248189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>El Capitan Meadow</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.6354441,37.7238155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sentinel Bridge</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5897133,37.7434152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoneman Bridge</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5739125,37.7404216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taft Point</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.6046084,37.7129827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tunnel View</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.6769058,37.7155466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mirror Lake</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5494208,37.7477377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridalveil Falls Viewpoint</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -119.6486021,37.7174114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
