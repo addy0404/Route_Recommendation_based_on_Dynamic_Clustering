@@ -11,3 +11,4 @@ My journey to California in the end of 2023, especially my visit to Yosemite Nat
 I've shared a comprehensive guide on how to effectively use my algorithm to cluster destinations that are close not only geographically but also in terms of time efficiency. Given the limited hours available in a day for travel, it's crucial to optimize the use of this time based on the duration needed to visit all the planned locations on your itinerary. I hope my guide enhances your travel planning, helping you save time and streamline your trips!
 
 https://medium.com/@aditya.chawla04/optimizing-my-travel-itinerary-embracing-automation-for-memorable-journeys-74967f577aeb
+![ezgif com-animated-gif-maker](https://github.com/addy0404/travel_optimizer/assets/54615209/85e8724e-02ff-4c08-8a65-a8503b86f6cb)
